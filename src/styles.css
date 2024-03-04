@@ -1,1 +1,39 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+:root{
+  --orange: #FD6F00;
+}
+*{
+  padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+  outline: none;
+}
+
+
+
+@font-face {
+  font-family: poppins-regular;
+  src: url('./assets/poppins/poppins-v5-latin-regular.ttf');
+}
+
+@font-face {
+  font-family: poppins-200;
+  src: url('./assets/poppins/poppins-v5-latin-200.ttf');
+}
+
+@font-face {
+  font-family: poppins-500;
+  src: url('./assets/poppins/poppins-v5-latin-500.ttf');
+}
+
+@font-face {
+  font-family: poppins-600;
+  src: url('./assets/poppins/poppins-v5-latin-600.ttf');
+}
+
+@font-face {
+  font-family: poppins-700;
+  src: url('./assets/poppins/poppins-v5-latin-700.ttf');
+}
