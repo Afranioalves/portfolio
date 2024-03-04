@@ -37,3 +37,8 @@
   font-family: poppins-700;
   src: url('./assets/poppins/poppins-v5-latin-700.ttf');
 }
+
+@font-face {
+  font-family: poppins-800;
+  src: url('./assets/poppins/poppins-v5-latin-800.ttf');
+}

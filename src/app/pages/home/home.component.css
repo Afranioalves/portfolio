@@ -1,0 +1,51 @@
+main{
+  padding: 0 24vh;
+  margin-top: 64px;
+
+}
+
+.intro-section{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 64px;
+}
+img.me-first{
+  max-width: 100%;
+  width: 390px;
+}
+
+.text-greeting{
+  font-family: poppins-500;
+  font-size: 18px;
+}
+.text-name{
+  font-family: poppins-600;
+  font-size: 22px;
+  color:var(--orange)
+}
+.text-job{
+  font-size: 100px;
+  font-family: poppins-600;
+  line-height: 88px;
+  margin-top:8px ;
+}
+.text-job span{
+  margin-left: 164px;
+}
+.text-description{
+  margin-top: 32px;
+  font-family: poppins-regular;
+}
+
+.button-hire-me{
+    width: 120px;
+    height: 40px;
+    margin-top: 12px;
+    border: none;
+    background:var(--orange);
+    border-radius: 4px;
+    font-family: poppins-regular;
+    color:#fff;
+    font-size: 15px;
+}
